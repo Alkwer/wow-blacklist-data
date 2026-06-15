@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T20:09:07Z",
+  "generatedAt": "2026-06-15T20:32:36Z",
   "records": [
     {
       "character": "testowygracz",
@@ -8,6 +8,18 @@
       "key": "eu:burning-legion:testowygracz",
       "lastSeenAt": "2026-06-15T20:05:40Z",
       "raiderIoUrl": "https://raider.io/characters/eu/burning-legion/Testowygracz",
+      "realm": "burning-legion",
+      "reason": "guild blacklist",
+      "region": "eu",
+      "sourceMessageId": "hidden"
+    },
+    {
+      "character": "troladinni",
+      "displayName": "Troladinni-Burning Legion",
+      "firstSeenAt": "2026-06-15T20:31:01Z",
+      "key": "eu:burning-legion:troladinni",
+      "lastSeenAt": "2026-06-15T20:31:01Z",
+      "raiderIoUrl": "https://raider.io/characters/eu/burning-legion/Troladinni",
       "realm": "burning-legion",
       "reason": "guild blacklist",
       "region": "eu",
