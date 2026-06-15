@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-06-15T20:32:36Z",
+  "generatedAt": "2026-06-15T20:38:19Z",
   "records": [
+    {
+      "character": "frthbrn",
+      "displayName": "Frthbrn-Burning Legion",
+      "firstSeenAt": "2026-06-15T20:37:44Z",
+      "key": "eu:burning-legion:frthbrn",
+      "lastSeenAt": "2026-06-15T20:37:44Z",
+      "raiderIoUrl": "https://raider.io/characters/eu/burning-legion/Frthbrn",
+      "realm": "burning-legion",
+      "reason": "guild blacklist",
+      "region": "eu",
+      "sourceMessageId": "hidden"
+    },
     {
       "character": "testowygracz",
       "displayName": "Testowygracz-Burning Legion",
