@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-15T20:09:07Z",
+  "records": [
+    {
+      "character": "testowygracz",
+      "displayName": "Testowygracz-Burning Legion",
+      "firstSeenAt": "2026-06-15T20:05:40Z",
+      "key": "eu:burning-legion:testowygracz",
+      "lastSeenAt": "2026-06-15T20:05:40Z",
+      "raiderIoUrl": "https://raider.io/characters/eu/burning-legion/Testowygracz",
+      "realm": "burning-legion",
+      "reason": "guild blacklist",
+      "region": "eu",
+      "sourceMessageId": "hidden"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": {
+    "type": "public-blacklist-export"
+  }
+}
