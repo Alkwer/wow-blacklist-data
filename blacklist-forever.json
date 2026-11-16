@@ -1,9 +1,10 @@
 {
-  "gameVersion": "forever",
-  "generatedAt": "2026-11-16T00:00:00Z",
-  "records": [],
   "schemaVersion": 1,
+  "gameVersion": "forever",
+  "generatedAt": "2026-11-16T18:20:50Z",
   "source": {
-    "type": "public-blacklist-export"
-  }
+    "type": "public-blacklist-export",
+    "lastCheckedAt": "2026-11-16T18:42:08Z"
+  },
+  "records": []
 }
